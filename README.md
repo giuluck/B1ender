@@ -2,7 +2,7 @@
 
 A simple computer graphics software to compose basic 3D shapes
 
-**Computer Graphics Project Work n.2**
+**Computer Graphics Project Work n. 2**
 
 Bachelor Degree in Computer Science and Engineering
 
